@@ -1,6 +1,6 @@
 # Object Detection Project
 
-This repository contains a machine learning model trained for image prediction. The model is deployed through a Python script and can be used to analyze images from the provided sample folder.
+This repository contains a machine learning model trained for image prediction. The model is developed through a Python script and can be used to analyze images from the provided sample folder.
 
 ## 🔗 Additional Resources
 📦 Project Zip File: Available in the Google Drive link {https://drive.google.com/drive/folders/1vW4udydkJlRfDQIDc_Doo5mGAc-UgBcH?usp=sharing}
@@ -14,12 +14,12 @@ The complete directory structure is available in `structure.txt`.
 Main components:
 - `Predict.py`: Script for running predictions on images
 - `hackByte3.0_Parameter_Tuning.ipynb`: Notebook containing training processes and results for multiple trial models
-- `HackByte3.0_best_parameter_tuned.ipynb`: Notebook containing the final model training and results
+- `HackByte3.0_best_parameter_tuned.ipynb`: Notebook containing the best parameterized model training and results
 - `Final_Model.ipynb`: Notebook containing the final model training and results
 - `best.pt`: The trained model weights from the final model
 - `runs/`: Directory containing training runs data from parameter tuning
 - `runs (1)/`: Directory containing training runs data from final model
-- `runsFinal`: Directory containing training runs data from final model
+- `runsFinal`: Directory containing training runs data from best parametrized model
 - `Sample img/`: Folder containing sample images for testing
 - `structure.txt`: Complete file and directory structure of the project
 
@@ -86,6 +86,9 @@ The repository includes a set of sample images in the "Sample img" folder that c
 
 ## Model Information
 The notebooks `HackByte3.0_best_parameter_tuned.ipynb` and `hackByte3.0_Parameter_Tuning.ipynb` are trained using https://app.roboflow.com/sdpgnsfnsfsfgr/onodgdnsfdosifnsfsf/1
-The final model was trained using https://app.roboflow.com/sdpgnsfnsfsfgr/onodgdnsfdosifnsfsfaccrusion/1. Note:Models are strictly train on Data provided in problem Statement data is just uploaded at Roboflow for just easy accessibility.
+
+The final model `Final_Model.ipynb` was trained using https://app.roboflow.com/sdpgnsfnsfsfgr/onodgdnsfdosifnsfsfaccrusion/1.
+
+Note:Models are strictly train on Data provided in problem Statement data is just uploaded at Roboflow for just easy accessibility.
 
 The required packages are listed in `requirements.txt`. Make sure to install them using the commands provided in the Setup section.
