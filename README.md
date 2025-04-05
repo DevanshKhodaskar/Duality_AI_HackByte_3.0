@@ -1,4 +1,4 @@
-# Image Prediction Project
+# Object Detection Project
 
 This repository contains a machine learning model trained for image prediction. The model is deployed through a Python script and can be used to analyze images from the provided sample folder.
 
