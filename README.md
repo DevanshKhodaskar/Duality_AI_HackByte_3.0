@@ -75,11 +75,3 @@ The repository includes a set of sample images in the "Sample img" folder that c
 The final model was trained using https://app.roboflow.com/hackbyte-30. Note:Models are strictly train on Data provided in problem Statement data is just uploaded at Roboflow for just easy accessibility.
 
 The required packages are listed in `requirements.txt`. Make sure to install them using the commands provided in the Setup section.
-
-## License
-
-[Include license information here if applicable]
-
-## Contact
-
-[Include contact information or contribution guidelines if applicable]
