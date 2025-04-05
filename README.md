@@ -80,7 +80,7 @@ The notebook `Final_Model.ipynb` contains Final Trained model With Data augmenta
 The repository includes a set of sample images in the "Sample img" folder that can be used to test the model. To try different images, modify the `image_path` in `Predict.py`.
 
 ## Model Information
-
+The notebooks `HackByte3.0_best_parameter_tuned.ipynb` and `hackByte3.0_Parameter_Tuning.ipynb` are trained using https://app.roboflow.com/sdpgnsfnsfsfgr/onodgdnsfdosifnsfsf/1
 The final model was trained using https://app.roboflow.com/sdpgnsfnsfsfgr/onodgdnsfdosifnsfsfaccrusion/1. Note:Models are strictly train on Data provided in problem Statement data is just uploaded at Roboflow for just easy accessibility.
 
 The required packages are listed in `requirements.txt`. Make sure to install them using the commands provided in the Setup section.
