@@ -2,6 +2,11 @@
 
 This repository contains a machine learning model trained for image prediction. The model is deployed through a Python script and can be used to analyze images from the provided sample folder.
 
+## 🔗 Additional Resources
+📦 Project Zip File: Available in the Google Drive link {https://drive.google.com/drive/folders/1vW4udydkJlRfDQIDc_Doo5mGAc-UgBcH?usp=sharing}
+
+📄 Report Duality Track.pdf: Project report located in the root directory
+
 ## Project Structure
 
 The complete directory structure is available in `structure.txt`.
