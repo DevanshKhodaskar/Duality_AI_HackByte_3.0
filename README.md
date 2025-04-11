@@ -1,4 +1,4 @@
-# Object Detection Project
+# SimuVision
 
 This repository contains a machine learning model trained for image prediction. The model is developed through a Python script and can be used to analyze images from the provided sample folder.
 
